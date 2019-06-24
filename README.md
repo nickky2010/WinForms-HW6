@@ -1,14 +1,22 @@
-# WinForms-HW6
-ITStep(Gomel)-WinForms Home work 6
+# Task 1
+***
+#### Создать класс Мяч. Состав класса:
+ 
+* свойства Радиус, Цвет, Позиция, Скорость;
+* конструктор
+* метод для рисования мяча (параметр метода – объект класса `Graphics`)
+* метод для перемещения на другую позицию
 
-Create a class Ball. Composition class:
 
- properties Radius, Color, Position, Speed;
+Написать приложение `Windows Forms`, имитирующее перемещение мяча по горизонтальной поверхности
 
- constructor
 
- method for drawing the ball (method parameter is an object of the Graphics class)
+Вид окна приложения после запуска:
 
- method to move to another position
+![Alt text](/Task/Image/1.PNG?raw=true "Приложение после запуска")
 
-Write a Windows Forms application that simulates moving the ball across a horizontal surface.
+***
+#### Решение:
+
+
+![Alt text](/Task/Image/2.PNG?raw=true "Мяч")
